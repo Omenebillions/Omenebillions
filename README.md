@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Martin Omene
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m a junior Python Programmer
 - 💞️ I’m looking to collaborate on everyone
 - 📫 How to reach me ...
 
